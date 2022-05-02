@@ -1,4 +1,4 @@
-## doFlo 👋
+## doFlo.com - Team Focused Automation
 
 We are getting ready to launch after over a year of secret work ...
 
