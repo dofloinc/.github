@@ -37,27 +37,19 @@ doFlo Helm Charts
 </tr>
 <tr>
 <td>
-  
+<!-- REMOVE THE BACKSLASHES -->
+  <a href="https://github.com/dofloinc/">dofloinc</a>
 </td>
 <td>
 <!-- REMOVE THE BACKSLASHES -->
-  
+  <a href="https://github.com/doflo-elements/">doflo-elements</a>
 </td>
   <td>
-  
+<!-- REMOVE THE BACKSLASHES -->
+  <a href="https://github.com/doflo-charts/">doflo-charts</a>
   </td>
 </tr>
-<tr>
-<td align="center">
-Column 1
-</td>
-<td align="center">
-Column 2
-</td>
-<td align="center">
-Column 3
-</td>
-</tr>
+
 </table>  
 <!--
 
