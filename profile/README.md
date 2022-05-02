@@ -1,12 +1,3 @@
-## doFlo.com - Team Focused Automation
-
-How to get started
-
-```sh
-  npx doflo
-
-```
-
 ## Official doFlo code repos
 
 <table>
@@ -51,6 +42,17 @@ Helm Charts / Infra
 </tr>
 
 </table>  
+
+## doFlo.com - Team Focused Automation
+
+How to get started
+
+```sh
+  npx doflo
+
+```
+
+
 <!--
 
 **Here are some ideas to get you started:**
