@@ -7,7 +7,7 @@ How to get started
 
 ```
 
-## Official doFlo github code repos
+## Official doFlo code repos
 
 <table>
 <th align="center">
