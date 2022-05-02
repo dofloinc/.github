@@ -7,6 +7,58 @@ How to get started
 
 ```
 
+
+<table>
+<tr>
+<th align="center">
+<img width="295" height="0">
+<p> 
+<small>
+doFlo User Code
+</small>
+</p>
+</th>
+<th align="center">
+<img width="295" height="0">
+<p> 
+<small>
+doFlo Element Code
+</small>
+</p>
+</th>
+<th align="center">
+<img width="295" height="0">
+<p> 
+<small>
+doFlo Helm Charts
+</small>
+</p>
+</th>
+</tr>
+<tr>
+<td>
+  
+</td>
+<td>
+<!-- REMOVE THE BACKSLASHES -->
+  
+</td>
+  <td>
+  
+  </td>
+</tr>
+<tr>
+<td align="center">
+Column 1
+</td>
+<td align="center">
+Column 2
+</td>
+<td align="center">
+Column 3
+</td>
+</tr>
+</table>  
 <!--
 
 **Here are some ideas to get you started:**
