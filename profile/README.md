@@ -27,15 +27,15 @@ Helm Charts / Infra
 </th>
 </tr>
 <tr>
-<td>
+<td align="center">
 <!-- REMOVE THE BACKSLASHES -->
   <a href="https://github.com/dofloinc/">dofloinc</a>
 </td>
-<td>
+<td align="center">
 <!-- REMOVE THE BACKSLASHES -->
   <a href="https://github.com/doflo-elements/">doflo-elements</a>
 </td>
-  <td>
+  <td align="center">
 <!-- REMOVE THE BACKSLASHES -->
   <a href="https://github.com/doflo-charts/">doflo-charts</a>
   </td>
