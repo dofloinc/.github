@@ -7,14 +7,14 @@ How to get started
 
 ```
 
+## Official doFlo github code repos
 
 <table>
-<tr>
 <th align="center">
 <img width="295" height="0">
 <p> 
 <small>
-doFlo User Code
+User Integration 
 </small>
 </p>
 </th>
@@ -22,7 +22,7 @@ doFlo User Code
 <img width="295" height="0">
 <p> 
 <small>
-doFlo Element Code
+Element Creation
 </small>
 </p>
 </th>
@@ -30,7 +30,7 @@ doFlo Element Code
 <img width="295" height="0">
 <p> 
 <small>
-doFlo Helm Charts
+Helm Charts / Infra
 </small>
 </p>
 </th>
