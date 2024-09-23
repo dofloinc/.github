@@ -1,21 +1,19 @@
 ## Official doFlo websites
 
 Primary Sales & Information Website
-* https://www.doflo.com/
+* https://doflo.com
 
 Workflow & WorkOS Application
-* https://app.doflo.com/
+* https://app.doflo.com
 
 User & Element Documentation
-* https://docs.doflo.com/
+* https://docs.doflo.com
 
 Developer Portal and Documentation
-* https://developers.doflo.com/
+* https://developers.doflo.com
 
 Status
-* https://status.doflo.com/
-* https://www.doflo-status.com/
-
+* https://status.doflo.com
 
 ## Official doFlo code repos
 
